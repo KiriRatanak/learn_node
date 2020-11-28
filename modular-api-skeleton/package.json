@@ -1,0 +1,11 @@
+{
+  "name": "modular-api-skeleton",
+  "version": "1.0.0",
+  "description": "The project skeleton for project to extend from",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiriratanak Vorn",
+  "license": "ISC"
+}
